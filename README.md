@@ -2,6 +2,9 @@
 ### 1. Resource Center
 **Introduction**
 
+![image](https://github.com/user-attachments/assets/aa138a99-0552-4256-a472-f7e471b3a2a0)
+
+
 The Resource Center is Tencent Cloud's resource management platform, primarily designed for querying expiring resources, setting up automatic renewals, and updating resource attributes. Due to historical reasons, the Resource Center does not store all resources from various businesses, requiring users to manage resources through different business consoles. This is both cumbersome and non-compliant. 
 
 Therefore, the primary goal of refactoring the Resource Center is to store complete resource data to facilitate centralized and unified resource management. 
